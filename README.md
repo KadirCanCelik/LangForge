@@ -65,7 +65,7 @@ Tailored builds are provided to ensure optimal performance regardless of the har
 
 ### For End-Users (Pre-built Binaries)
 
-1. Navigate to the [Releases](#) page.
+1. Navigate to the [Releases](https://github.com/KadirCanCelik/LangForge/releases) page.
 2. Download the appropriate version for your system:
    * `LangForge_CPU.zip` (For general machines)
    * `LangForge_GPU_Nvidia.7z` (For NVIDIA GPUs)
