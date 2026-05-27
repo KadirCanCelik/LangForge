@@ -1,0 +1,11 @@
+customtkinter
+faster-whisper==1.2.1
+sounddevice==0.5.5
+numpy
+groq==1.2.0
+torch==2.11.0
+torchaudio
+omegaconf
+python-dotenv==1.2.2
+ctranslate2
+pyinstaller
