@@ -40,6 +40,7 @@ Tailored builds are provided to ensure optimal performance regardless of the har
 ## 📖 Articles
 
 **[Bypassing the "Multimodal Tax": How I Cut Voice AI Costs and Secured Biometric Privacy](https://dev.to/kadircancelik/bypassing-the-multimodal-tax-how-i-cut-voice-ai-costs-and-secured-biometric-privacy-2mgm)**  
+
 **[The "Zero-Latency" Deep Dive: Architecting Concurrent Voice AI in Python](https://dev.to/kadircancelik/the-zero-latency-deep-dive-architecting-concurrent-voice-ai-in-python-1967)**
 
 ---
