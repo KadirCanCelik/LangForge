@@ -87,7 +87,7 @@ If you wish to build, modify, or run LangForge directly from the source code:
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/KadirCanCelik/LangForge.git](https://github.com/KadirCanCelik/LangForge.git)
+git clone https://github.com/KadirCanCelik/LangForge.git
 cd LangForge
 ```
 
