@@ -8,7 +8,7 @@ class LLMEngine:
             raise ValueError("Groq Api Key is missing. Cannot initialize LLm Engine.")
         
         self.client = Groq(api_key=self.api_key)
-        self.model_name = "llama-3.1-8b-instant"
+        self.model_name = "openai/gpt-oss-20b"
 
         self.system_prompt = (
             "You are Langforge, a friendly, patient, and engaging conversational partner. "
